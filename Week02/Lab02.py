@@ -1,3 +1,5 @@
+# Lab 04: Loops and Functions Practice
+# Student Name: Peyman Shahvand
 import random
 choices = ["Rock","Paper","Scissors"]
 
